@@ -87,10 +87,6 @@ It also helped me understand how AI tools can support analysts in converting cle
 
 <img width="823" height="649" alt="image" src="https://github.com/user-attachments/assets/edfedf4d-1811-4484-9e92-ca7ebc05a517" />
 
-```markdown
-![Amazon Prime Dashboard](dashboard-preview.png)
-```
-
 ## Author
 
 **Samarth Mirajkar**
